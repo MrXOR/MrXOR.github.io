@@ -1,2 +1,4 @@
-# [My Crypto blog](https://mrxor.github.io/)
+# Wonderful Cryptography 
+
+My Crypto blog
 
